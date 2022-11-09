@@ -1,0 +1,5107 @@
+fileFormatVersion: 2
+guid: 70a9d8fc4bd2ee2469cb5d4d3f47207a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coolSpotSprite_6
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1908
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4047c5e4673bd542ad5f1e6d134846d
+      internalID: -1168584814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_12
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1902
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41fa8dc51dbcc545865878b16c6d784
+      internalID: -482317807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_13
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1882
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2295134b29dcd74e84b10387be20232
+      internalID: -811308280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_38
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1520
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b799f77c65289a448a80db79337e5fe
+      internalID: 2086627232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_94
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1078
+        width: 60
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e835603ec7d5b1499d4aa056dff80c4
+      internalID: -1790576752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_95
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1078
+        width: 60
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c138eb0c1870d24fb43b658d40d7ae6
+      internalID: 496703162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_96
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1122
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b2db9ec13daf4fbb23b487bcc2378
+      internalID: 2111442247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_97
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1124
+        width: 30
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705e089ba56686a40903f912467c9ebe
+      internalID: 223561501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_98
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1128
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a633d39b317ea48baf0c74c533bc1c
+      internalID: 1499405747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_99
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1134
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9782a0fc6ef5bb4e90d1f018a41bb91
+      internalID: 1472185323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_100
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1146
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19930cf4f809d4f47b421bd6fbdd3599
+      internalID: 712870598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_101
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1126
+        width: 30
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be90e6d4950d0d4eada5fd218592469
+      internalID: -640148034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_102
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1148
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de369a321e17d246a3afa7f7a09faf4
+      internalID: -109715691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_103
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1144
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba27a6e5625f8144a93c50c5876bde8
+      internalID: 1831508276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_104
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1142
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6212f6f9b2e2494da3917a108501529
+      internalID: 1360581561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_105
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1078
+        width: 86
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a04c086b25c4e4d8c38945da9f6568
+      internalID: -1780192491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_106
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1078
+        width: 86
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab5aa09261abd64d999873c6423e85e
+      internalID: 59965405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_107
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1078
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd7ee01bcd76ff489efefcec808c83b
+      internalID: 2080325608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_108
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1120
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b762c7902fc3a2f42b7695ed67d2330c
+      internalID: -586850583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_109
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1138
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87a89dcabe0b3a4a934318a5f6d2264
+      internalID: 840916113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_110
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1126
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e02306098fa4ac46ad69c4786feb30e
+      internalID: -1011589753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_111
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1126
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0766679d529e6b42872ef916ecbb118
+      internalID: -1135881784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_112
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1126
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe07bf9f4e98e24880f1d786d001014
+      internalID: 1429333044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_113
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1126
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bee23ffe55d8c44aac7a8303a313a2
+      internalID: 1083771356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_114
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1126
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7e6e42cf0b5c1459bc09dd54ba65c7
+      internalID: 1305287045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_115
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1078
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c1323cdadccfa4f9318a400e8bc846
+      internalID: 1426984637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_116
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1078
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d25b39ea7833f4391ce62b2ea21ee5
+      internalID: 650047450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_117
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1078
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5a88e0f893e014db23fee17ef57e56
+      internalID: 9222233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_118
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1078
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca75a7ef9ab8a874a82893120b59b565
+      internalID: 1817626735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_167
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 620
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01e6917a1e327b45874dfdcb0f1a444
+      internalID: 1439169633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_172
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 602
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17215e6fb44f649459f1c6932d09e465
+      internalID: 996300093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_173
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 598
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4480e0eb3aa8a4f449dd73b622ef6453
+      internalID: 614987345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_216
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 94
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797a01f1f51d24b4aaa82ce32093cba9
+      internalID: 871303412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_0
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1842
+        width: 74
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915a85455da8ebe4fafa95452b98ed78
+      internalID: 1754516602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1842
+        width: 76
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12477b64b7a594c49ad8c7f14e43c866
+      internalID: 1330790924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1842
+        width: 72
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe4b8f0d8be89644946e568ebe9c5dd
+      internalID: 2039136912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_3
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1842
+        width: 70
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e46794443784e49acf198be83eabd3
+      internalID: -1979744841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_4
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1842
+        width: 92
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a5214cb246611459c62c3364f8146b
+      internalID: 1716806538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1842
+        width: 72
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf8064ada85ce046a1eef7bc28dfcf7
+      internalID: 1926734209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1842
+        width: 64
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b22351baf78934bb870447293a43f1
+      internalID: 2057961177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1842
+        width: 66
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f7b8b75fbaa76439628a89c7b867b4
+      internalID: 581050917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1842
+        width: 74
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a471e74b6c6cc744a0affe38e1b4b67
+      internalID: 379178522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1842
+        width: 78
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1885f16057a4d438472d490f4fc0cb
+      internalID: -1486870600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1842
+        width: 78
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd1eb06520191840bf644599d27384f
+      internalID: 399497804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1724
+        width: 58
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96664b861d741d4f9236ac8113352fc
+      internalID: 927096995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1724
+        width: 56
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1272707cf9fef664a8ee65aafc58633c
+      internalID: -245199707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1724
+        width: 58
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934e7a4e15f21d44aac9b91502f781c9
+      internalID: -1083203938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1724
+        width: 64
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff50f69e56b694749929ddef5440f402
+      internalID: -1940282703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1724
+        width: 62
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3d7024dc703ad4bba65fe17adee0ef
+      internalID: -537177382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1724
+        width: 66
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199780b367be7a746b40a39714f5615f
+      internalID: -387124969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1614
+        width: 66
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db3d010af1b6d548b2532dcbda30616
+      internalID: -1651943094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1614
+        width: 86
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6756938d98dd640a1f0a2a110ea30b
+      internalID: 1313364707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1614
+        width: 84
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98a68163bf9353489c8585f15b5c9e7
+      internalID: 1883532495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1614
+        width: 66
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225ae7b461cc17545bd9c55c99e02182
+      internalID: 1095709582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1614
+        width: 60
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c08d2cc4b2e764b833c9b5b1a924a8
+      internalID: 386096432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_25
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1614
+        width: 58
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bedc2cde36881c4aa657364e7cf5e67
+      internalID: -1966149570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1614
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc367599caca1b448d4d388beb23298
+      internalID: 2022976342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_27
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1614
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ffd3fdb17be9947bd529a776aa45d4
+      internalID: -1221252960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_28
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1614
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f615d8b482745384ab18f256592168fb
+      internalID: -732114586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_29
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1614
+        width: 60
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049ec4270da9e6f45b7fd9d962544274
+      internalID: 1177941109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_30
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1614
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d567c5b7761964c895aa3158ff4b9e
+      internalID: -2076711015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_31
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1614
+        width: 64
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64869ab3075940e46b640bc5741d8b95
+      internalID: -1853527873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_32
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1614
+        width: 86
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e02624660182e343a223e7882834642
+      internalID: -398720595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1514
+        width: 72
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe754bdfdc713a439f4519b4e5ea6f6
+      internalID: 510329768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_34
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1514
+        width: 86
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078ececc03a7a8d43ab9800a8f8c5842
+      internalID: -1570522742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_35
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1514
+        width: 98
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9725e0ee867f2444b9747e2dc5a6934e
+      internalID: 1373259652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1514
+        width: 94
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10365c7e54b06ea41972051c54f36748
+      internalID: -1504762844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_37
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1514
+        width: 84
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace9fec3f7a6c3e40ad337af037b4197
+      internalID: 1797408433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_39
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1514
+        width: 80
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e229b70c6c4ea34448a95cbb02cf542e
+      internalID: -213658332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_40
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1514
+        width: 70
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fce1059522ca9f4880c4a0557fa52f5
+      internalID: 1978479920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_41
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1514
+        width: 68
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11644348d241bc4e92d4fbfff37eeba
+      internalID: -1646247061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_42
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1514
+        width: 70
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b8e612599ab09439b0c83c759177e6
+      internalID: 1892722769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_43
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1514
+        width: 92
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b06d5ce4d28ba44b8d3ba8a33aaaf0b
+      internalID: 1821655391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_44
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1514
+        width: 92
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aeb11be9343f2489e5ba93407677ab
+      internalID: 1104077287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1400
+        width: 68
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d2fcc907d20574e961267253c33e2f
+      internalID: 2007105338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1400
+        width: 66
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da6272f0c82554c9029c111fd80469
+      internalID: -1998709927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1400
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0529a83c53d434c8e0c563676d5ba5
+      internalID: 1707074842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_48
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1400
+        width: 64
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27bb7c961a01a40bf14393f0239043
+      internalID: 895707082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1400
+        width: 86
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0ba469c3311cc4c9f667918fa57d86
+      internalID: 1299087211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_50
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1400
+        width: 78
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5927e8fd7a6524945a95d07063da5f35
+      internalID: -1982786208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_51
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1400
+        width: 70
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6749253fefca74489fc28939067cf3
+      internalID: -1083766861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_52
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1400
+        width: 66
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906405c4ff369844dae8fafe14e8824d
+      internalID: -326779656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_53
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1400
+        width: 56
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88784d61eafec2f4c830790200268092
+      internalID: -283067714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_54
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1400
+        width: 54
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18460db0d987d0d41bf6f3580a176155
+      internalID: 642699580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_55
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1400
+        width: 66
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93c46c4dded03d46aa1ff172685ffff
+      internalID: 1775736905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_56
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1400
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6d019b3f9528641abb1b7f45f35396
+      internalID: 2141367097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_57
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1400
+        width: 58
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a6503cc6d6dda4497fa70178898665
+      internalID: 1933265591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_58
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1400
+        width: 56
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7c1124f6b3da94dbd24b96bdcdf53e
+      internalID: 1175512436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_59
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1400
+        width: 58
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3679624e3de85b740bc538daae6f73b7
+      internalID: -482637300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_60
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1400
+        width: 64
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d0d9d857546304bbefa627805b4862
+      internalID: 1309083428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_61
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1400
+        width: 60
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b08f67bddfdac4097c4af3eef8c02a
+      internalID: 299576004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_62
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1400
+        width: 64
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254c8d2bc927ab742843f88a91005e18
+      internalID: -1565645329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_63
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1400
+        width: 58
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396119c7667d74a4b8e536849dce4160
+      internalID: 1622109719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_64
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1400
+        width: 66
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea8d60def54e594288ffa91d33626c5
+      internalID: -1544643830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_65
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1400
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80480d161a5cf74c93e00c4ab3c911a
+      internalID: -1184929108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_66
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1400
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb33179b34bae0145b9084b951a60cc3
+      internalID: -1277075271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_67
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1400
+        width: 52
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449d5400c4e1ad64bbd3eeb4244ba130
+      internalID: 121437410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_68
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1400
+        width: 52
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a2e03b27d376747bbd397d13cf8874
+      internalID: -1443779634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1324
+        width: 66
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468fa933f96053549959dd5537d27d9d
+      internalID: 741548838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_70
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1324
+        width: 68
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dac956e9a0c2ce46bd284f81bb050ad
+      internalID: 1392019193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1324
+        width: 60
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522c6994464dac040ae460a49fcb1592
+      internalID: -1479593047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1324
+        width: 62
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010700a26e6a94d409c96dfbb9fa0bc2
+      internalID: -1896846421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_73
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1324
+        width: 54
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5308f48082153084383e6e2b9b392bd2
+      internalID: -2058366109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_74
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1324
+        width: 54
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a046fd97d1d2c4d8643848b125ff18
+      internalID: 920290080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_75
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1324
+        width: 54
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf580093e6ac6647acc0590df32ee7c
+      internalID: 852358117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_76
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1324
+        width: 56
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627699215c23080418304db4ca635e5d
+      internalID: -681551721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_77
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1324
+        width: 60
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29273bb0375713c48b130f19e0f9f7a9
+      internalID: -1199371278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_78
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1324
+        width: 64
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2ea87cddcd38a49ad15bfb678749c1
+      internalID: -1377708261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_79
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1248
+        width: 80
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b15219f2c898d40a4903915494382f
+      internalID: -2118802455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1248
+        width: 84
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ca84f7f5d026848980f69b7527e63f
+      internalID: -959596464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_81
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1248
+        width: 94
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321ba494f0a6cd24fb96da249c0c7fc8
+      internalID: -1372297014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_82
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1250
+        width: 88
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190ff1f78d9d1c6408457ad3a5b668cd
+      internalID: 2073991807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_83
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1246
+        width: 74
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a7b2e4b4628614ab3ca3e2d60e60e7
+      internalID: -918771005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_84
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1248
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa3eedf97e4b84489ce3edf51bf8cce
+      internalID: -799351674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1174
+        width: 90
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1bd0391d8c23c4d9792488ab866497
+      internalID: 545253959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_86
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1174
+        width: 84
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b761288ed23254d91a7de622bb746e
+      internalID: -193994256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_87
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1174
+        width: 56
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa586baea3f33294eadc9ad937cb48fd
+      internalID: 1858118852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_88
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1174
+        width: 46
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db9026ad22d7bf41aac98e81c98e2c8
+      internalID: -1971008576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_89
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1174
+        width: 66
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d3482d060bc2046aff59c02d36d47b
+      internalID: -1285388146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_90
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1174
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e9b7e498f48e2468a1de31c6347c0c
+      internalID: -1914882248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_91
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1174
+        width: 60
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52d15b75c0f19e4b9d2976f5f79b849
+      internalID: -334447420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_92
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1174
+        width: 44
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844b884cd7c52804380d0bea3fc6a0c0
+      internalID: 1841028512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_93
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1174
+        width: 78
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9965e032b7341748a1866b2e5da66ff
+      internalID: -1102992862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 994
+        width: 88
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c6e7594e520f74bbc684b2576f5bb0
+      internalID: -704249861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_120
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 994
+        width: 96
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a0d744e0af877428ac7eb7abdea5d0
+      internalID: 204834639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_121
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 994
+        width: 86
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b8397bebe2a03428fcfd6f5f28b235
+      internalID: 9931750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_122
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 994
+        width: 76
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10d39fdde9e62a4a92cdd49b03424bc
+      internalID: -2142224942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_123
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 994
+        width: 74
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4c534d456c7f2499d6d4dcafe08531
+      internalID: -456274146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_124
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 994
+        width: 88
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa11ed04c7912514793fdf368e4a3663
+      internalID: -611825894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_125
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 994
+        width: 96
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4c9b011661f5d44b5e2cc932b54f13
+      internalID: -1762343725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_126
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 994
+        width: 96
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f9d156ce8c725469de1c24fdaf15cc
+      internalID: 1045136949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_127
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 994
+        width: 86
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af3ff450fa666942a8e2bfc99a10b38
+      internalID: -1613829390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_128
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 994
+        width: 76
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686c3b5d9421a7843ae397b72aa2adae
+      internalID: -1135420232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_129
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 994
+        width: 80
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e8fddb312829244afe7092af38d409
+      internalID: 300065590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_130
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 886
+        width: 60
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e94e406bba505d4d8e4cdd2156b5d07
+      internalID: -1610311830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_131
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 894
+        width: 94
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388e4108cc77e134c8150aae67aaf1fa
+      internalID: 782266747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_132
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 896
+        width: 94
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e14fc7193d5b864fba517422c0f95a4
+      internalID: 831672515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_133
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 886
+        width: 84
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0f785b6155303469b54afc7334b893
+      internalID: 932652302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_134
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 884
+        width: 78
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457f14f736bcd91449a76960f734fbfe
+      internalID: 737141999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_135
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 884
+        width: 62
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98133572f75da0d40b2137b36ec2716f
+      internalID: -1473152427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_136
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 898
+        width: 80
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0083027c31fa94144b11075b695e13a5
+      internalID: -772072796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_137
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 780
+        width: 96
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6adfb7296fc07441b8a4249087db1a6
+      internalID: 2078644935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_138
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 798
+        width: 80
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d49368464cdf740814d0d62aff4a03
+      internalID: -1119060834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_139
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 786
+        width: 44
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caec3f17acf7064cb9a41dba5c2bcc4
+      internalID: 1673047601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_140
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 794
+        width: 70
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8423cdf9a31a97429e0ef75c6add624
+      internalID: -1000551488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_141
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 784
+        width: 50
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2564d045824ae1c45b3b7a92289d0287
+      internalID: 655669066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_142
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 678
+        width: 84
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176017cb10c96c24483f5b44dce7e8f3
+      internalID: 2040479201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_143
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 686
+        width: 84
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e40641dece5d147b09fd42737e8b79
+      internalID: -1000416290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_144
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 674
+        width: 90
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1628d180d92814985723c229f09d10
+      internalID: 366403097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_145
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 680
+        width: 88
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6301533d4c1a194da5e73c318e92911
+      internalID: -1996620257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_146
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 684
+        width: 92
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e1542ffc7193d408403532b2f1f958
+      internalID: 542129465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_147
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 684
+        width: 66
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b771027a5edce04394584354e2aadfa
+      internalID: -1567028977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_148
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 682
+        width: 64
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60a43d17fea5ae49aa049b50975c6ea
+      internalID: 1412924712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_149
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 682
+        width: 60
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e9f52218319214e9e014b8aad47526
+      internalID: -1285260802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_150
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 682
+        width: 52
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0531bbd897970498c73e97efcae288
+      internalID: 667783379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_151
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 680
+        width: 74
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15f83f5e59b85b409b8c1747172f6b1
+      internalID: -573600975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_152
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 692
+        width: 68
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1452484a9e70a48b295980d2108d1a
+      internalID: -264110236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_153
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 710
+        width: 90
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3c4414d56a6bd4dbecce2892fa9d77
+      internalID: 1943136720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_154
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 688
+        width: 74
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630966d737baf394cac6900a5ee61ec8
+      internalID: 567409037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_155
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 688
+        width: 74
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d3621fdd04d2b42bb45f137f70042f
+      internalID: 1519834393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_156
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 688
+        width: 72
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457bff1867aebd942a6d8b42fbf3f6eb
+      internalID: 92700004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_157
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 688
+        width: 82
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0b4c537ef7031428b769963651d56a
+      internalID: -1559862638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_158
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 682
+        width: 72
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1734f9171dc0a24cb00d56f11815ccd
+      internalID: 1643397460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_159
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 674
+        width: 158
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76a0f4e2a5dfb94e8933f2e9d1a1711
+      internalID: 19888144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_160
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 584
+        width: 64
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b426ad48052d04080fa46b578f3ea1
+      internalID: -1172871450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_161
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 584
+        width: 64
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c66dbcce7609643b43e1156b570775
+      internalID: 288220491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_162
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 584
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e1d67875360154bbc9eb805170a724
+      internalID: -6186934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_163
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 584
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb80e670d682074bb76c8d7d7357c40
+      internalID: -1634239414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_164
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 584
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ef6f11ef50a24287d01cab9671fb2
+      internalID: -1942146399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_165
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 584
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f3ad2742af56c4d90825faaf69dcc5
+      internalID: -979706823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_166
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 584
+        width: 70
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b3176d5bbbca74987f59da95ce3755
+      internalID: 1914127963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_168
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 584
+        width: 70
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6cf7bffa42ece42b34a1ed2011b347
+      internalID: 176866998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_169
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 584
+        width: 76
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70f9361d47254444bff148ea205321e
+      internalID: 194864090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_170
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 584
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a4f5f42b7161b45a17d1f92d021147
+      internalID: 1758445974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_171
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 582
+        width: 62
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569c2c13fa8a6a4458f66f54386d56b0
+      internalID: -1549887373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_174
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 464
+        width: 64
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96edc68b613a3ca47aa67a255631b42e
+      internalID: 262792203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_175
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 464
+        width: 58
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c89483cba73bb4093c53d0bb1a434b
+      internalID: -694041665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_176
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 470
+        width: 62
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954ac59e6c6a6f1499c8d3500f850843
+      internalID: -1863857623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_177
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 458
+        width: 62
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b8a1a7575b49e46a9dc53aa245c78c
+      internalID: -1275019656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_178
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 460
+        width: 64
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e024fea46d48c474a97c3b163a0a79b8
+      internalID: -255281084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_179
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 466
+        width: 58
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50857056a7178664ab4a55b538d6cac1
+      internalID: 414761686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_180
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 470
+        width: 62
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4ee89cdae388642871f8188b0e7cc8
+      internalID: -1548773816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_181
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 456
+        width: 62
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe6a3e6bf919924cb35296a4e0d589f
+      internalID: -1095312357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_182
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 348
+        width: 96
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abb04104c2961e47a0f2535e7d121a7
+      internalID: 1505546676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_183
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 348
+        width: 96
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac806dae53d0544a92c811e75d169a9
+      internalID: 891005069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_184
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 348
+        width: 96
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446dd752c827cbe46a76fae11d9b576c
+      internalID: 895942791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_185
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 348
+        width: 96
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246ace21e0881df4eb6e7bb252b58862
+      internalID: -367138621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_186
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 348
+        width: 90
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf64593b30186d14ca04aefda32f840a
+      internalID: -215326711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_187
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 348
+        width: 94
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b85a8f9eee9ba42a31437b1c294614
+      internalID: 808449241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_188
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 348
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80bb53c3266de846970e4b02eb9a499
+      internalID: 1031021554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_189
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 348
+        width: 96
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021ec79a3f675824da505ea447c60581
+      internalID: 1556143637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_190
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 348
+        width: 96
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882849f6e7630984e80214b53178a95e
+      internalID: -1881563098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_191
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 348
+        width: 92
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18d44ef9ff122343a68e37ce1b98196
+      internalID: -1954659326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_192
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 232
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a0d072130480e46924563334be0a29
+      internalID: 116195123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_193
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 240
+        width: 86
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab847aca10da97f4ca688fb02579ca26
+      internalID: 805146824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_194
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 242
+        width: 94
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1deb2e56012d924f885c2de5c7c4af6
+      internalID: 1314153104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_195
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 244
+        width: 90
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b798fb1eac89a56468de433714fc0019
+      internalID: -507710965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_196
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 122
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b531f19033ce1e94c94746fec1baba64
+      internalID: 1661249608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_197
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 124
+        width: 76
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1096892052d12f943b46ab7b69004f1a
+      internalID: -1045627637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_198
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 126
+        width: 58
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d76196b0dc19343b0295bcad877536
+      internalID: 541386526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_199
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 128
+        width: 62
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdd84c0018f3644da96f5b9f07c9142
+      internalID: 114055839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_200
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 128
+        width: 66
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a6db62325d93e49b4de966dfd79e5c
+      internalID: -1568315796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_201
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 126
+        width: 58
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7245366eb302341855b204d588dcc9
+      internalID: -1188195676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_202
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 128
+        width: 56
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ab0b941cb3f1647838dbe5a4986326
+      internalID: 1841940107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_203
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 128
+        width: 62
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2236388cf87a3a47af13137fa5df477
+      internalID: 49927063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_204
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 128
+        width: 40
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26433e3541a19454bb8d67ae8b3ded65
+      internalID: -385740661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_205
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 126
+        width: 56
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fbe01e743567f4082dd5e40f5b64fb
+      internalID: 892971681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_206
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 126
+        width: 64
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b94097d5220ec240873b3b5fa563509
+      internalID: -925833798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_207
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 128
+        width: 82
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b06bab3d43813649951148825c60ecb
+      internalID: -1218072853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_208
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 130
+        width: 82
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec857a90ecc330f498a32649078bf48d
+      internalID: 1449053855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_209
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 134
+        width: 82
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82258732d4bec3643a9e31a556d71cc5
+      internalID: -796127077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_210
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 138
+        width: 82
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5252ec856eb41424fb81dcae3045a2ff
+      internalID: -649021939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_211
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 148
+        width: 78
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d7ecac54528f646bd5f8b0ff7e0281
+      internalID: -304389911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_212
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 144
+        width: 96
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ead377cc88f994e82a33e946114883
+      internalID: 653101661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_213
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 146
+        width: 96
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1639785561c6584790b812218779ce8
+      internalID: 1070937503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_214
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 144
+        width: 94
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa50ef78fd4f8e4587e8a31e63504bd
+      internalID: -813769711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_215
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 24
+        width: 84
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418abbd010a161145b66ee0cf83cf721
+      internalID: 1028933290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_217
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 16
+        width: 92
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5fa663d06c63c49af253cc6350d047
+      internalID: -125395488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_218
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 94
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bb4e3810826f34b9b4e475e26a3b30
+      internalID: 1870782240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_219
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae43aaa27bc8e36438327805dc056ce9
+      internalID: 278298752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_220
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 18
+        width: 54
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfe7ad43b939c548a54806996c4ec9c
+      internalID: 1250721702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_221
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 22
+        width: 64
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03d1001c6d45314a8bc3ecbf90fd69e
+      internalID: -17197767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_222
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 24
+        width: 64
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571b1290de226ac40973c7986dac39c1
+      internalID: 1778028067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_223
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 22
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f986e8d20d5091b42a96ee414dc8929a
+      internalID: 297938177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_224
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 16
+        width: 78
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d087504622062419760f58a4887a4d
+      internalID: -653464377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coolSpotSprite_225
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 16
+        width: 86
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39362d203fbf5a54f97b28f885a54844
+      internalID: -338939952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      coolSpotSprite_5: 1926734209
+      coolSpotSprite_220: 1250721702
+      coolSpotSprite_1: 1330790924
+      coolSpotSprite_64: -1544643830
+      coolSpotSprite_39: -213658332
+      coolSpotSprite_19: -387124969
+      coolSpotSprite_114: 1305287045
+      coolSpotSprite_194: 1314153104
+      coolSpotSprite_37: 1797408433
+      coolSpotSprite_6: -1168584814
+      coolSpotSprite_119: -704249861
+      coolSpotSprite_91: -334447420
+      coolSpotSprite_17: -1940282703
+      coolSpotSprite_206: -925833798
+      coolSpotSprite_155: 1519834393
+      coolSpotSprite_80: -959596464
+      coolSpotSprite_183: 891005069
+      coolSpotSprite_43: 1821655391
+      coolSpotSprite_88: -1971008576
+      coolSpotSprite_218: 1870782240
+      coolSpotSprite_158: 1643397460
+      coolSpotSprite_96: 2111442247
+      coolSpotSprite_125: -1762343725
+      coolSpotSprite_209: -796127077
+      coolSpotSprite_76: -681551721
+      coolSpotSprite_112: 1429333044
+      coolSpotSprite_107: 2080325608
+      coolSpotSprite_28: -732114586
+      coolSpotSprite_61: 299576004
+      coolSpotSprite_200: -1568315796
+      coolSpotSprite_83: -918771005
+      coolSpotSprite_57: 1933265591
+      coolSpotSprite_110: -1011589753
+      coolSpotSprite_223: 297938177
+      coolSpotSprite_73: -2058366109
+      coolSpotSprite_193: 805146824
+      coolSpotSprite_95: 496703162
+      coolSpotSprite_115: 1426984637
+      coolSpotSprite_113: 1083771356
+      coolSpotSprite_124: -611825894
+      coolSpotSprite_131: 782266747
+      coolSpotSprite_142: 2040479201
+      coolSpotSprite_55: 1775736905
+      coolSpotSprite_129: 300065590
+      coolSpotSprite_30: -2076711015
+      coolSpotSprite_68: -1443779634
+      coolSpotSprite_201: -1188195676
+      coolSpotSprite_177: -1275019656
+      coolSpotSprite_182: 1505546676
+      coolSpotSprite_4: 1716806538
+      coolSpotSprite_178: -255281084
+      coolSpotSprite_215: 1028933290
+      coolSpotSprite_192: 116195123
+      coolSpotSprite_213: 1070937503
+      coolSpotSprite_101: -640148034
+      coolSpotSprite_208: 1449053855
+      coolSpotSprite_175: -694041665
+      coolSpotSprite_24: 386096432
+      coolSpotSprite_179: 414761686
+      coolSpotSprite_85: 545253959
+      coolSpotSprite_167: 1439169633
+      coolSpotSprite_14: 927096995
+      coolSpotSprite_132: 831672515
+      coolSpotSprite_3: -1979744841
+      coolSpotSprite_184: 895942791
+      coolSpotSprite_90: -1914882248
+      coolSpotSprite_186: -215326711
+      coolSpotSprite_66: -1277075271
+      coolSpotSprite_8: 581050917
+      coolSpotSprite_48: 895707082
+      coolSpotSprite_22: 1883532495
+      coolSpotSprite_145: -1996620257
+      coolSpotSprite_42: 1892722769
+      coolSpotSprite_23: 1095709582
+      coolSpotSprite_207: -1218072853
+      coolSpotSprite_214: -813769711
+      coolSpotSprite_26: 2022976342
+      coolSpotSprite_188: 1031021554
+      coolSpotSprite_160: -1172871450
+      coolSpotSprite_189: 1556143637
+      coolSpotSprite_196: 1661249608
+      coolSpotSprite_150: 667783379
+      coolSpotSprite_58: 1175512436
+      coolSpotSprite_127: -1613829390
+      coolSpotSprite_67: 121437410
+      coolSpotSprite_18: -537177382
+      coolSpotSprite_140: -1000551488
+      coolSpotSprite_50: -1982786208
+      coolSpotSprite_126: 1045136949
+      coolSpotSprite_130: -1610311830
+      coolSpotSprite_156: 92700004
+      coolSpotSprite_46: -1998709927
+      coolSpotSprite_163: -1634239414
+      coolSpotSprite_162: -6186934
+      coolSpotSprite_217: -125395488
+      coolSpotSprite_199: 114055839
+      coolSpotSprite_225: -338939952
+      coolSpotSprite_148: 1412924712
+      coolSpotSprite_31: -1853527873
+      coolSpotSprite_92: 1841028512
+      coolSpotSprite_52: -326779656
+      coolSpotSprite_204: -385740661
+      coolSpotSprite_78: -1377708261
+      coolSpotSprite_137: 2078644935
+      coolSpotSprite_108: -586850583
+      coolSpotSprite_216: 871303412
+      coolSpotSprite_0: 1754516602
+      coolSpotSprite_176: -1863857623
+      coolSpotSprite_72: -1896846421
+      coolSpotSprite_105: -1780192491
+      coolSpotSprite_15: -245199707
+      coolSpotSprite_172: 996300093
+      coolSpotSprite_147: -1567028977
+      coolSpotSprite_53: -283067714
+      coolSpotSprite_161: 288220491
+      coolSpotSprite_97: 223561501
+      coolSpotSprite_103: 1831508276
+      coolSpotSprite_203: 49927063
+      coolSpotSprite_100: 712870598
+      coolSpotSprite_219: 278298752
+      coolSpotSprite_157: -1559862638
+      coolSpotSprite_136: -772072796
+      coolSpotSprite_168: 176866998
+      coolSpotSprite_2: 2039136912
+      coolSpotSprite_174: 262792203
+      coolSpotSprite_106: 59965405
+      coolSpotSprite_133: 932652302
+      coolSpotSprite_224: -653464377
+      coolSpotSprite_87: 1858118852
+      coolSpotSprite_123: -456274146
+      coolSpotSprite_10: -1486870600
+      coolSpotSprite_138: -1119060834
+      coolSpotSprite_221: -17197767
+      coolSpotSprite_54: 642699580
+      coolSpotSprite_104: 1360581561
+      coolSpotSprite_171: -1549887373
+      coolSpotSprite_173: 614987345
+      coolSpotSprite_191: -1954659326
+      coolSpotSprite_116: 650047450
+      coolSpotSprite_151: -573600975
+      coolSpotSprite_63: 1622109719
+      coolSpotSprite_143: -1000416290
+      coolSpotSprite_149: -1285260802
+      coolSpotSprite_187: 808449241
+      coolSpotSprite_109: 840916113
+      coolSpotSprite_198: 541386526
+      coolSpotSprite_159: 19888144
+      coolSpotSprite_210: -649021939
+      coolSpotSprite_12: -482317807
+      coolSpotSprite_153: 1943136720
+      coolSpotSprite_185: -367138621
+      coolSpotSprite_36: -1504762844
+      coolSpotSprite_71: -1479593047
+      coolSpotSprite_190: -1881563098
+      coolSpotSprite_35: 1373259652
+      coolSpotSprite_180: -1548773816
+      coolSpotSprite_11: 399497804
+      coolSpotSprite_51: -1083766861
+      coolSpotSprite_144: 366403097
+      coolSpotSprite_81: -1372297014
+      coolSpotSprite_139: 1673047601
+      coolSpotSprite_195: -507710965
+      coolSpotSprite_146: 542129465
+      coolSpotSprite_60: 1309083428
+      coolSpotSprite_111: -1135881784
+      coolSpotSprite_121: 9931750
+      coolSpotSprite_164: -1942146399
+      coolSpotSprite_70: 1392019193
+      coolSpotSprite_212: 653101661
+      coolSpotSprite_20: -1651943094
+      coolSpotSprite_169: 194864090
+      coolSpotSprite_7: 2057961177
+      coolSpotSprite_40: 1978479920
+      coolSpotSprite_74: 920290080
+      coolSpotSprite_122: -2142224942
+      coolSpotSprite_197: -1045627637
+      coolSpotSprite_205: 892971681
+      coolSpotSprite_94: -1790576752
+      coolSpotSprite_75: 852358117
+      coolSpotSprite_21: 1313364707
+      coolSpotSprite_38: 2086627232
+      coolSpotSprite_120: 204834639
+      coolSpotSprite_102: -109715691
+      coolSpotSprite_82: 2073991807
+      coolSpotSprite_49: 1299087211
+      coolSpotSprite_29: 1177941109
+      coolSpotSprite_13: -811308280
+      coolSpotSprite_65: -1184929108
+      coolSpotSprite_154: 567409037
+      coolSpotSprite_93: -1102992862
+      coolSpotSprite_134: 737141999
+      coolSpotSprite_99: 1472185323
+      coolSpotSprite_79: -2118802455
+      coolSpotSprite_27: -1221252960
+      coolSpotSprite_222: 1778028067
+      coolSpotSprite_59: -482637300
+      coolSpotSprite_34: -1570522742
+      coolSpotSprite_62: -1565645329
+      coolSpotSprite_9: 379178522
+      coolSpotSprite_166: 1914127963
+      coolSpotSprite_33: 510329768
+      coolSpotSprite_45: 2007105338
+      coolSpotSprite_86: -193994256
+      coolSpotSprite_84: -799351674
+      coolSpotSprite_128: -1135420232
+      coolSpotSprite_202: 1841940107
+      coolSpotSprite_117: 9222233
+      coolSpotSprite_32: -398720595
+      coolSpotSprite_69: 741548838
+      coolSpotSprite_89: -1285388146
+      coolSpotSprite_56: 2141367097
+      coolSpotSprite_152: -264110236
+      coolSpotSprite_135: -1473152427
+      coolSpotSprite_77: -1199371278
+      coolSpotSprite_118: 1817626735
+      coolSpotSprite_211: -304389911
+      coolSpotSprite_165: -979706823
+      coolSpotSprite_44: 1104077287
+      coolSpotSprite_98: 1499405747
+      coolSpotSprite_141: 655669066
+      coolSpotSprite_47: 1707074842
+      coolSpotSprite_16: -1083203938
+      coolSpotSprite_41: -1646247061
+      coolSpotSprite_181: -1095312357
+      coolSpotSprite_170: 1758445974
+      coolSpotSprite_25: -1966149570
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
