@@ -11,7 +11,7 @@ public class Disparo : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.K))
+        if (Input.GetButtonDown("Fire1"))
         {
             Disparar();
             

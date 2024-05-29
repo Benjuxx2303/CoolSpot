@@ -15,7 +15,7 @@ public class Spikes : MonoBehaviour
             tiempoSiguienteDaño -= Time.deltaTime;
             if (tiempoSiguienteDaño <= 0)
             {
-                other.GetComponent<Combate>().Daño(1);
+                other.GetComponent<Combate>().Daño(2);
                 tiempoSiguienteDaño = tiempoEntreDaño;
             }
         }

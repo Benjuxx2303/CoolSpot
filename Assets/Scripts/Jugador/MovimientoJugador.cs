@@ -70,7 +70,7 @@ public class MovimientoJugador : MonoBehaviour
     }
     
     private void Salto() {
-        if (Input.GetKeyDown(KeyCode.Space) && enSuelo){
+        if (Input.GetButtonDown("Jump") && enSuelo){
             AudioManager.Instance.Reproducir(sonidoSalto);
             fisicas.AddForce(new Vector2(0, salto), ForceMode2D.Impulse);
             enSuelo = false;
